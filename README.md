@@ -1,4 +1,4 @@
-# TinyML-Color-Recognition
+# TinyML-Color-Classifier
 Embedded Machine Learning (TinyML) on Arduino Nano 33 BLE Sense. 
 
 This project is based on [fruit identification using Arduino and TensorFlow](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/).
